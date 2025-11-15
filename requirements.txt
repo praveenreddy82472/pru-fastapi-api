@@ -1,3 +1,8 @@
 fastapi
 uvicorn
-gunicorn
+langchain
+langchain-openai
+langchain-community
+python-dotenv
+azure-search-documents
+openai
